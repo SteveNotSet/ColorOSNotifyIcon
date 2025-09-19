@@ -13,6 +13,8 @@
 
 <img src="img-src/icon.png" width = "100" height = "100" alt="LOGO"/>
 
+（只是 Fork 下来手动触发一下 GitHub Actions 编译。）
+
 Optimize notification icons for ColorOS and adapt to native notification icon specifications.
 
 为 ColorOS 优化通知图标以及适配原生通知图标规范，理论支持 OxygenOS 和 RealmeUI。
